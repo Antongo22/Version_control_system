@@ -8,3 +8,7 @@
 - Added changelog.md
 - Added README.md
 - Added install.md
+
+## [1.1.1] - 2025-01-29
+### Added
+- Added an API and a simple interface for calculating fibonacci
