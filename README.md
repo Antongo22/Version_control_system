@@ -11,4 +11,8 @@ This is the repository that will show my work with GitHub
 ## Links
 - [Changelog](./changelog.md)
 - [Installation Guide](./install.md)
+- [Cheatsheet](./git-cheatsheet.md)
 
+---
+## Network graph
+![image](https://github.com/user-attachments/assets/e8875aee-661b-43e7-a239-d64c8072e8a7)
