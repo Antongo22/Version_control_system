@@ -1,0 +1,35 @@
+[33mcommit 5c58970e13283cb7770d49a7f9e1f908e8f370b1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m, [m[1;33mtag: [m[1;33mv1.1.1[m[33m)[m
+Merge: 1e013b6 3e7e0cd
+Author: Anton <80984465+Antongo22@users.noreply.github.com>
+Date:   Wed Jan 29 20:11:26 2025 +0300
+
+    Merge pull request #5 from Antongo22/feature/task_3_simpleapi
+    
+    task3 Add a simple api for calculating fibonacci
+
+[33mcommit 3e7e0cd91a41be75c682d6c33f2a218bc4bac8e4[m[33m ([m[1;31morigin/feature/task_3_simpleapi[m[33m, [m[1;32mfeature/task_3_simpleapi[m[33m)[m
+Author: Anton <80984465+Antongo22@users.noreply.github.com>
+Date:   Wed Jan 29 20:09:58 2025 +0300
+
+    task3 Add a simple api for calculating fibonacci
+
+[33mcommit 1e013b64137bf3851c68241236593e68b9d5ec8e[m
+Merge: 160e5a0 3b67e3c
+Author: Anton <80984465+Antongo22@users.noreply.github.com>
+Date:   Wed Jan 29 19:49:03 2025 +0300
+
+    Merge pull request #3 from Antongo22/feature/tasl-2_write_readme
+    
+    Update README.md
+
+[33mcommit 3b67e3c3b20c7c41728b7bc9633dd6fd56e7dd87[m
+Author: Anton <80984465+Antongo22@users.noreply.github.com>
+Date:   Wed Jan 29 19:48:12 2025 +0300
+
+    Update README.md
+
+[33mcommit 160e5a0ad4e72dbf1cd834794423e0abe3e1ac7a[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Anton <80984465+Antongo22@users.noreply.github.com>
+Date:   Wed Jan 29 19:23:36 2025 +0300
+
+    beginning
